@@ -3,8 +3,9 @@ name: game-identification
 description: A methodology for recognizing the unspoken rules, roles, and reward structures that govern social situations. Based on the insight that most human interaction follows game-like patterns—complete wi...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4072
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - game-identification
 - transformation
